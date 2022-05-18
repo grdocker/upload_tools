@@ -1,3 +1,3 @@
-# template
+# upload_tools
 
-This repository contains basic files needed to setup new image repository with tests and auto uploads
+Basic alpine with tools for uploading files: curl, zip
